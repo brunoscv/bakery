@@ -41,8 +41,7 @@
     { "id": 27, "product": "Pão Massa Doces", "bakeryId": 9 },
     { "id": 28, "product": "Pão Massa Salgados", "bakeryId": 10 },
     { "id": 29, "product": "Pão Massa Fina", "bakeryId": 10 },
-    { "id": 30, "product": "Pão Massa Grossa", "bakeryId": 10 },
-    { "id": 31, "product": "Pão Massa Doces", "bakeryId": 10 }
+    { "id": 30, "product": "Pão Massa Grossa", "bakeryId": 10 }
   ],
   "profile": {
     "name": "typicode"
