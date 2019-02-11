@@ -1,12 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "bakeries": [
+    { "id": 1, "title": "Padaria Modelo", "description": "Padaria Modelo" },
+    { "id": 2, "title": "Padaria Ideal", "description": "Padaria Ideal"  },
+    { "id": 3, "title": "Padaria KiDelicia", "description": "Padaria KiDelicia"  },
+    { "id": 4, "title": "Padaria Pão Doce", "description": "Padaria Pão Doce"  },
+    { "id": 5, "title": "Padaria Tudo de Bom", "description": "Padaria Tudo de Bom"  },
+    { "id": 6, "title": "Padaria Pão Gostoso", "description": "Padaria Pão Gostoso"  },
+    { "id": 7, "title": "Padaria Doce Pão", "description": "Padaria Pão Doce"  },
+    { "id": 8, "title": "Padaria Tudo de Pão", "description": "Padaria Tudo de Pão"  },
+    { "id": 9, "title": "Padaria Delicias", "description": "Padaria Delicias"  },
+    { "id": 10, "title": "Padaria Mundial", "description": "Padaria Mundial"  },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "bakery_menu": [
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 1 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 1 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 1 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 1 },
+     { "id": 1, "product": "Pão Massa Fina", "bakeryId": 2 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 2 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 2 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 2 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 3 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 3 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 4 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 4 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 4 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 5 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 5 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 5 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 6 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 6 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 7 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 7 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 8 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 8 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 8 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 9 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 9 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 9 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 9 },
+     { "id": 1, "product": "Pão Massa Salgados", "bakeryId": 10 },
+    { "id": 1, "product": "Pão Massa Fina", "bakeryId": 10 },
+     { "id": 1, "product": "Pão Massa Grossa", "bakeryId": 10 },
+     { "id": 1, "product": "Pão Massa Doces", "bakeryId": 10 }
   ],
   "profile": {
     "name": "typicode"
