@@ -9,7 +9,7 @@
     { "id": 7, "title": "Padaria Doce Pão", "description": "Padaria Pão Doce", "img": "https://www.galeriadaarquitetura.com.br/Img/projeto/702x415/900/padarie335.jpg"  },
     { "id": 8, "title": "Padaria Tudo de Pão", "description": "Padaria Tudo de Pão", "img": "http://f.i.uol.com.br/guia/bares/images/12226709.jpeg"  },
     { "id": 9, "title": "Padaria Delicias", "description": "Padaria Delicias", "img": "http://www.padariaitalianinha.com.br/arquivos//IMG_8922%20(1).JPG"  },
-    { "id": 10, "title": "Padaria Mundial", "description": "Padaria Mundial", "img": "http://www.patobrancosupermercados.com.br/imgsite/novidades/amp-padaria-0.jpg"  },
+    { "id": 10, "title": "Padaria Mundial", "description": "Padaria Mundial", "img": "http://www.patobrancosupermercados.com.br/imgsite/novidades/amp-padaria-0.jpg"  }
   ],
   "bakery_menu": [
     { "id": 1, "product": "Pão Massa Fina", "bakeryId": 1 },
